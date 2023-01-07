@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="20" passed="20" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-20T07:04:57 IST" name="Default suite" finished-at="2022-10-20T07:05:38 IST" duration-ms="41334">
+    <groups>
+    </groups>
+    <test started-at="2022-10-20T07:04:57 IST" name="Default test" finished-at="2022-10-20T07:05:38 IST" duration-ms="41334">
+      <class name="testcases.TestCases">
+        <test-method is-config="true" signature="initialize()[pri:0, instance:testcases.TestCases@3a393455]" started-at="2022-10-20T07:04:47 IST" name="initialize" finished-at="2022-10-20T07:04:57 IST" duration-ms="10335" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method signature="validateAppTitle()[pri:0, instance:testcases.TestCases@3a393455]" started-at="2022-10-20T07:04:57 IST" name="validateAppTitle" finished-at="2022-10-20T07:04:57 IST" duration-ms="77" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAppTitle -->
+        <test-method signature="carLoan()[pri:1, instance:testcases.TestCases@3a393455]" started-at="2022-10-20T07:04:57 IST" name="carLoan" finished-at="2022-10-20T07:05:01 IST" duration-ms="3512" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- carLoan -->
+        <test-method signature="homeLoan()[pri:2, instance:testcases.TestCases@3a393455]" started-at="2022-10-20T07:05:01 IST" name="homeLoan" finished-at="2022-10-20T07:05:04 IST" duration-ms="2983" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homeLoan -->
+        <test-method signature="personalLoan()[pri:3, instance:testcases.TestCases@3a393455]" started-at="2022-10-20T07:05:04 IST" name="personalLoan" finished-at="2022-10-20T07:05:05 IST" duration-ms="1794" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- personalLoan -->
+        <test-method signature="speacialCharLoanAmount()[pri:4, instance:testcases.TestCases@3a393455]" started-at="2022-10-20T07:05:05 IST" name="speacialCharLoanAmount" finished-at="2022-10-20T07:05:07 IST" duration-ms="1618" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- speacialCharLoanAmount -->
+        <test-method signature="speacialCharInterest()[pri:5, instance:testcases.TestCases@3a393455]" started-at="2022-10-20T07:05:07 IST" name="speacialCharInterest" finished-at="2022-10-20T07:05:09 IST" duration-ms="1586" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- speacialCharInterest -->
+        <test-method signature="speacialCharYear()[pri:6, instance:testcases.TestCases@3a393455]" started-at="2022-10-20T07:05:09 IST" name="speacialCharYear" finished-at="2022-10-20T07:05:11 IST" duration-ms="2110" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- speacialCharYear -->
+        <test-method signature="nullLoanAmount()[pri:7, instance:testcases.TestCases@3a393455]" started-at="2022-10-20T07:05:11 IST" name="nullLoanAmount" finished-at="2022-10-20T07:05:12 IST" duration-ms="1602" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nullLoanAmount -->
+        <test-method signature="nullInterest()[pri:8, instance:testcases.TestCases@3a393455]" started-at="2022-10-20T07:05:12 IST" name="nullInterest" finished-at="2022-10-20T07:05:14 IST" duration-ms="1593" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nullInterest -->
+        <test-method signature="nullYears()[pri:9, instance:testcases.TestCases@3a393455]" started-at="2022-10-20T07:05:14 IST" name="nullYears" finished-at="2022-10-20T07:05:16 IST" duration-ms="2008" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nullYears -->
+        <test-method signature="floatLoans()[pri:10, instance:testcases.TestCases@3a393455]" started-at="2022-10-20T07:05:16 IST" name="floatLoans" finished-at="2022-10-20T07:05:18 IST" duration-ms="1567" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- floatLoans -->
+        <test-method signature="floatYears()[pri:11, instance:testcases.TestCases@3a393455]" started-at="2022-10-20T07:05:18 IST" name="floatYears" finished-at="2022-10-20T07:05:20 IST" duration-ms="2085" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- floatYears -->
+        <test-method signature="intInterst()[pri:12, instance:testcases.TestCases@3a393455]" started-at="2022-10-20T07:05:20 IST" name="intInterst" finished-at="2022-10-20T07:05:22 IST" duration-ms="2009" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intInterst -->
+        <test-method signature="charLoan()[pri:13, instance:testcases.TestCases@3a393455]" started-at="2022-10-20T07:05:22 IST" name="charLoan" finished-at="2022-10-20T07:05:24 IST" duration-ms="2596" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- charLoan -->
+        <test-method signature="charInterest()[pri:14, instance:testcases.TestCases@3a393455]" started-at="2022-10-20T07:05:24 IST" name="charInterest" finished-at="2022-10-20T07:05:27 IST" duration-ms="2391" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- charInterest -->
+        <test-method signature="charYearsMonths()[pri:15, instance:testcases.TestCases@3a393455]" started-at="2022-10-20T07:05:27 IST" name="charYearsMonths" finished-at="2022-10-20T07:05:30 IST" duration-ms="2926" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- charYearsMonths -->
+        <test-method signature="charyears()[pri:16, instance:testcases.TestCases@3a393455]" started-at="2022-10-20T07:05:30 IST" name="charyears" finished-at="2022-10-20T07:05:32 IST" duration-ms="2003" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- charyears -->
+        <test-method signature="exceedInterest()[pri:17, instance:testcases.TestCases@3a393455]" started-at="2022-10-20T07:05:32 IST" name="exceedInterest" finished-at="2022-10-20T07:05:33 IST" duration-ms="1827" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exceedInterest -->
+        <test-method signature="exceedLoan()[pri:18, instance:testcases.TestCases@3a393455]" started-at="2022-10-20T07:05:33 IST" name="exceedLoan" finished-at="2022-10-20T07:05:35 IST" duration-ms="1683" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exceedLoan -->
+        <test-method signature="exceedYears()[pri:19, instance:testcases.TestCases@3a393455]" started-at="2022-10-20T07:05:35 IST" name="exceedYears" finished-at="2022-10-20T07:05:38 IST" duration-ms="3287" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exceedYears -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testcases.TestCases@3a393455]" started-at="2022-10-20T07:05:38 IST" name="teardown" finished-at="2022-10-20T07:05:39 IST" duration-ms="610" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testcases.TestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

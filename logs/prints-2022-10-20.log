@@ -1,0 +1,7 @@
+07:05:33.845 [main] INFO  resources.base - passed the testCase-19
+07:05:33.852 [main] INFO  resources.base - Testing by Exceeding limit of slider of Loan Amount
+07:05:33.853 [main] INFO  resources.base - Running TestCase-20
+07:05:33.853 [main] INFO  resources.base - Sending Exceeding limit of slider of Loan Amount
+07:05:35.414 [main] INFO  resources.base - retrieving the required data to print to excel
+07:05:35.533 [main] INFO  resources.base - passed the testCase-20
+07:05:35.538 [main] INFO  resources.base - Testing by Exceeding limit of slider of years
